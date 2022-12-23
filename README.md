@@ -8,4 +8,4 @@ Our work (right now) is happening in
 - [server](http://www.github.com/network-quality/server): Several implementations of web servers capable of being the target of RPM clients.
 - [goresponsiveness](http://www.github.com/network-quality/goresponsiveness): An open-source RPM client (written in Go).
 
-Our community is coordinated according to the documentation in this repository's wiki: [Wiki](https://github.com/network-quality/community/wiki)
+Our community is coordinated according to the documentation in this repository's [wiki](https://github.com/network-quality/community/wiki).
